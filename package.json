@@ -14,6 +14,8 @@
     "nodemon": "^2.0.16",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.12.0-alpha.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.0",
     "test-package": "^0.0.1"
   },
   "devDependencies": {
